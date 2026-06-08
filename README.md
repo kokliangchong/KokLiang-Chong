@@ -1,31 +1,33 @@
 # Hi, I'm Kok Liang Chong 👋
-### Data Centre Operations to Cloud DevOps & Site Reliability Engineer (SRE)
+### ⚡ Data Centre Operations ──> Cloud DevOps & Site Reliability Engineer (SRE)
 
-I bridge 8+ years of physical data center critical infrastructure experience with modern, cloud-native automation systems. Having managed 100% operational uptime across high-pressure enterprise environments, I bring a deeply rooted system reliability mindset to digital infrastructure, configuration management, and deployment pipelines.
-
----
-
-### ⚙️ Technical Specializations & Toolkit
-
-- **Cloud Infrastructure:** Microsoft Azure (Administration, Networking, Identity, Governance)
-- **Infrastructure as Code (IaC):** Terraform
-- **Configuration Management:** Ansible
-- **Containerization & Orchestration:** Docker, Kubernetes
-- **CI/CD & Automation:** GitHub Actions, Linux Shell Scripting (Bash), Python Fundamentals
-- **Core Domain Expertise:** High-Uptime Infrastructure, Root-Cause Analysis (RCA), Testing & Commissioning (T&C), 24/7 Monitoring
+> **System Reliability Mindset:** Bridging 8+ years of physical data center critical infrastructure management with modern, cloud-native automation systems. Having guarded 100% operational uptime across high-pressure enterprise environments, I bring deep root-cause analysis vectors and a hardened infrastructure paradigm to digital deployment pipelines.
 
 ---
 
-### 🚀 Featured Capstone Project
+### ⚙️ Technical Stack & Toolkit
 
-#### [SecondServe: Cloud-Native Surplus Recovery Platform](https://aca-secondserve-backend.livelybay-f6fd5e2b.southeastasia.azurecontainerapps.io)
-A containerized web ecosystem engineered to address commercial food waste in Singapore. This project validates my hands-on transition into cloud-native operations by executing:
-- **Serverless Architecture:** Architected microservices targeting Azure App Services and Azure Functions to gracefully handle high-traffic demand spikes.
-- **Automated Workflows:** Configured an end-to-end GitHub Actions CI/CD pipeline for automated multi-stage builds and container updates.
-- **Infrastructure Hardening:** Planned multi-tier data isolation utilizing Azure SQL and Blob Storage, alongside routing protection configurations via Azure Front Door and WAF.
+* **Cloud Infrastructure:** `Microsoft Azure` `(Administration, Networking, Identity, Governance)`
+* **Infrastructure as Code (IaC):** `Terraform`
+* **Configuration Management:** `Ansible`
+* **Containerization & Orchestration:** `Docker` `Kubernetes`
+* **CI/CD & Automation:** `Azure DevOps Pipelines` `GitHub Actions` `Bash Scripting` `Python Fundamentals`
+* **Core Domain Expertise:** `High-Availability Systems` `Root-Cause Analysis (RCA)` `Testing & Commissioning (T&C)` `24/7 Mission-Critical Monitoring`
 
 ---
 
-### 📊 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/kok-liang-chong](https://www.linkedin.com/in/kok-liang-chong)
-- **Email:** kokliangchong@gmail.com
+### 🚀 Featured Enterprise Capstone
+
+#### **SecondServe: Cloud-Native Surplus Recovery Platform**
+An enterprise-tier, containerized web ecosystem engineered to eliminate commercial food waste within Singapore’s F&B sector under the Resource Sustainability Act (RSA) framework.
+
+* **Containerized Architecture:** Architected and engineered modular serverless container runtimes utilizing `Azure Container Apps (ACA)` to gracefully handle volatile traffic spikes.
+* **Automated Production Pipelines:** Designed and deployed an end-to-end multi-stage `Azure DevOps CI/CD pipeline` (`azure-pipelines.yml`) automating secure local agent compilation, container image registry hosting, and zero-downtime application updates.
+* **Infrastructure Hardening:** Enforced a zero-trust network perimeter blueprint incorporating strict data layer isolation via `Azure SQL Database` and `Azure Blob Storage`, secured behind `Azure Front Door` and `Web Application Firewall (WAF)` routing rules.
+
+---
+
+### 📊 System Connection Endpoints
+
+* **LinkedIn:** [linkedin.com/in/kok-liang-chong](https://www.linkedin.com/in/kok-liang-chong)
+* **Email:** `kokliangchong@gmail.com`
